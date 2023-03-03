@@ -20,5 +20,5 @@
 
 |<img src="https://avatars.githubusercontent.com/u/94509287?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/97498094?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/88240193?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/96681950?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/103047410?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/87406368?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/72567631?v=4" width="80">|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|[김예은](https://github.com/YeKim1)|[김홍진](https://github.com/twojin514)|[이민성](https://github.com/msung99)|[이시현](https://github.com/sihyeon043)|[이한주](https://github.com/namesnames)|[이혜윤](https://github.com/hyleee)|[정민경](https://github.com/Jeong-Minkyeong)|
+|[김예은](https://github.com/YeKim1)|[김홍진](https://github.com/twojin514)|[이민성](https://github.com/msung99)|[이시현](https://github.com/sihihi43)|[이한주](https://github.com/namesnames)|[이혜윤](https://github.com/hyleee)|[정민경](https://github.com/Jeong-Minkyeong)|
 |BE-BE장|BE-홍보|BE-총무|BE-홍보|BE-기획|BE-홍보|BE-부회장|
